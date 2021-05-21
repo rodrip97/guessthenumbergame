@@ -1,0 +1,20 @@
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\ResolveAssemblyReference.cache
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.Properties.Resources.resources
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\GenerateResource.read.1.tlog
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\GenerateResource.write.1.tlog
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.exe
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.pdb
+\\srvdc01\folderredirs$\p1741\my documents\visual studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.FormJogo.resources
+\\srvdc01\FolderRedirs$\p1741\My Documents\Visual Studio 2010\Projects\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.FormFinalJogo.resources
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.pdb
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.csprojAssemblyReference.cache
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.FormJogo.resources
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.FormFinalJogo.resources
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.Properties.Resources.resources
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.csproj.GenerateResource.cache
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.exe
+C:\Users\RodrigoPinto\Desktop\WindowsFormsApplication21\WindowsFormsApplication21\obj\x86\Debug\WindowsFormsApplication21.pdb
